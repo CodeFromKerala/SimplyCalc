@@ -10,7 +10,6 @@ Also implements topics of the research paper given.
 
 ## Quick Start
 ```bash
-git clone <this-repo>
-cd frac_calc
+git clone https://github.com/CodeFromKerala/SimplyCalc
+cd SimplyCalc
 make
-./frac_calc --alpha=0.5 --steps=1000
