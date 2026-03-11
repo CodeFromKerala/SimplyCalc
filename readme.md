@@ -13,3 +13,9 @@ Also implements topics of the research paper given.
 git clone https://github.com/CodeFromKerala/SimplyCalc
 cd SimplyCalc
 make
+```
+
+## Implementing and Running Scripts
+```bash
+gcc file_name.c -lsimplycalc -o output_file_name
+```
