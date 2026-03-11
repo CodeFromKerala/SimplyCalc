@@ -12,7 +12,8 @@ Also implements topics of the research paper given.
 ```bash
 git clone https://github.com/CodeFromKerala/SimplyCalc
 cd SimplyCalc
-make
+make # for local install
+sudo make install # for global install
 ```
 
 ## Implementing and Running Scripts
